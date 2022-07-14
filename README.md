@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaydems
+- 👋 Hi, I’m @Kayodemary
 - 👀 I’m interested in economics, statistics and programming
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science project
